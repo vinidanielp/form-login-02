@@ -35,8 +35,8 @@
 
 <p>As seguintes ferramentas foram usadas na construção do projeto: </p>
 
-- [HTML](#HTML)
-- [CSS](#CSS)
+- HTML
+- CSS
 
 <br>
 
