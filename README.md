@@ -9,21 +9,25 @@
 
 <br>
 
+### Computador
 <div align="center">
-  <h3>Computador</h3>
   <img alt="Login-computador" title="#Login" src="images/computador.png" width="1000px" height="600">
 </div>
 
-<div align="center">
-  <h3>Mobile</h3>
+### Tablet
+<div>
   <img alt="Login-mobile" title="#Login" src="images/mobile.png">
-  <h3>Tablet</h3>
+</div>
+
+### Mobile
+<div>
   <img alt="Login-tablet" title="#Login" src="images/tablet.png">
 </div>
 
+
 ## 💻 Projeto
 
-<p>Apenas um simples layout de login 🍙.</p>
+<p>Apenas um outro simples layout de login usando o tema dark com uma imagem animada.</p>
 
 <br>
 
