@@ -6,12 +6,12 @@
 </p>
 
 ## 🎨 Layout
+
 <br>
 
 <h1 align="center">
   <img alt="Login" title="#Login" src="./assets/login-form.png" width="1000px">
 </h1>
-
 
 ## 💻 Projeto
 
