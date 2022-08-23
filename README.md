@@ -9,9 +9,17 @@
 
 <br>
 
-<h1 align="center">
-  <img alt="Login" title="#Login" src="./assets/login-form.png" width="1000px">
-</h1>
+<div align="center">
+  <h3>Computador</h3>
+  <img alt="Login-computador" title="#Login" src="images/computador.png" width="1000px" height="600">
+</div>
+
+<div align="center">
+  <h3>Mobile</h3>
+  <img alt="Login-mobile" title="#Login" src="images/mobile.png">
+  <h3>Tablet</h3>
+  <img alt="Login-tablet" title="#Login" src="images/tablet.png">
+</div>
 
 ## 💻 Projeto
 
